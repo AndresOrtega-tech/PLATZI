@@ -1,0 +1,25 @@
+¿Qué es la visualización de datos?
+
+Input: que es donde se encuentran los datos ya sea que estén organizados o no. 
+Output: es la presentación de los datos de una manera visual para ayudar a retener la información.
+
+La visualización de datos sirve para reconocer patrones o encontrar más información para investigar.
+
+Los mapas, los ábacos, son ejemplos de visualización de datos.
+
+Utilizando la visualización de datos podemos organizar y mejorar el aprendizaje de datos en la era de la información.
+
+Para los humanos es muy difícil retener información de una manera no estructurada, por lo cual utilizamos patrones o distintos métodos 
+de percepción visual que nos permiten retener de una forma mas sencilla la información que se nos esta presentando.
+
+Carga Cognitiva
+Es el esfuerzo que tenemos que hacer para retener la información. A mayor carga cognitiva, mayor esfuerzo para retener información, 
+y a menor carga menor esfuerzo para retener. Existen varios métodos para reducir la carga.
+
+La visualización efectiva y una carga cognitiva baja, nos ayuda a entender nuestra información. Y poder entregar a nuestra audiencia un mensaje 
+adecuado y de forma eficiente, ademas de poder retenerlo de una manera muy sencilla.
+
+Ben Shneiderman (informático estadounidense ): “La visualización te da respuestas a preguntas que no sabias que tenias”.
+
+Es importante entender que al momento de hacer visualizaciones de datos, asumimos un rol importante, ya que cada vez que comunicamos los datos, 
+existe una audiencia que va a recibir de forma directa o indirecta nuestro mensaje. Siempre debemos evitar el sesgo en todo momento.
